@@ -1,3 +1,3 @@
 # SAMSCAN 1.5.8.0
 
-my lazy ass friend samuel
+my lazy ass friend samuel will scan ports
